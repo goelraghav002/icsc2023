@@ -129,7 +129,7 @@
                     <div class="justify-center w-full bg-transparent">
                         <div class="text-white text-xl font-bold text-center bg-transparent">Prof. Brejesh Lall</div><br>
                         <div class="text-center bg-transparent my-2">
-                            <a href="https://www.iitr.ac.in/~ECE/Brajesh_Kumar_Kaushik" target="_blank" class="bg-white px-4 py-2 rounded-full">
+                            <a href="https://web.iitd.ac.in/~brejesh/" target="_blank" class="bg-white px-4 py-2 rounded-full">
                                 View Profile
                             </a>
                         </div>
