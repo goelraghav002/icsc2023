@@ -134,7 +134,7 @@
                             </a>
                         </div>
                         <div class="text-white text-center bg-transparent p-4 m-4">
-                            Prof. Department of Electronics and Communication, Indian Institute of Technology Delhi
+                            Prof. Electrical Engineering Department Indian Institute of Technology Delhi
 
                         </div>
                     </div>
