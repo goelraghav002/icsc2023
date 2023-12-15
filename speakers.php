@@ -37,8 +37,8 @@
                 <span class="close">&times;</span>
                 <img class="modal-content" id="img01" />
             </div> -->
-            <div class="mx-32 my-20 flex justify-between flex-wrap">
-                <div class="new w-[420px] h-[480px] flex justify-center flex-col rounded-lg">
+            <div class="mx-12 my-20 flex justify-around flex-wrap">
+                <div class="new w-[420px] h-[480px] flex justify-center flex-col rounded-lg my-10">
                     <div class="flex justify-center w-full bg-transparent">
                         <img src="img/santosh.jpg" alt="" class="w-52 h-52 m-10 rounded-lg">
                     </div>
@@ -55,7 +55,7 @@
                     </div>
                 </div>
 
-                <div class="new w-[420px] h-[480px] flex justify-center flex-col rounded-lg">
+                <div class="new w-[420px] h-[480px] flex justify-center flex-col rounded-lg my-10">
                     <div class="flex justify-center w-full bg-transparent">
                         <img src="img/willow.jpeg" alt="" class="w-52 h-52 m-10 rounded-lg">
                     </div>
@@ -73,7 +73,7 @@
                     </div>
                 </div>
 
-                <div class="new w-[420px] h-[480px] flex justify-center flex-col rounded-lg">
+                <div class="new w-[420px] h-[480px] flex justify-center flex-col rounded-lg my-10">
                     <div class="flex justify-center w-full bg-transparent">
                         <img src="img/sujay.jpg" alt="" class="w-52 h-52 m-10 rounded-lg">
                     </div>

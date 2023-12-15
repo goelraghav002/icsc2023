@@ -11,6 +11,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="path/to/owl.carousel.css" rel="stylesheet">
     <link href="path/to/owl.theme.default.css" rel="stylesheet">
+    <link href="styles/home.css" rel="stylesheet">    
 
 
 
@@ -109,12 +110,27 @@
             <div class="col-span-5 overflow-hidden">
 
                 <div class="overflow-x-auto">
-                    <div class="sm:flex">
-                        <img src="resources/serb_logo.png" alt="QR code" class="w-1/5 mx-auto">
-                        <img src="resources/sponser.jpeg" alt="QR code" class="w-1/5 mx-auto">
-                        <img src="resources/new_sponsor.jpeg" alt="QR code" class="w-1/5 mx-auto">
-                        <img src="resources/new_sponser.jpeg" alt="QR code" class="w-1/5 mx-auto">
-                        <img src="resources/Agmatel.jpeg" alt="QR code" class="w-1/5 h-1/5 mx-auto">
+                    <div class="sponsor">
+                        <div>
+                            <img src="resources/serb_logo.png" alt="QR code">
+                            <p>SERB India</p>
+                        </div>
+                        <div>
+                            <img src="resources/sponser.jpeg" alt="QR code">
+                            <p>Mandali Games</p>
+                        </div>
+                        <div>
+                            <img src="resources/new_sponsor.jpeg" alt="QR code">
+                            <p>HHV Ltd.</p>
+                        </div>
+                        <div>
+                            <img src="resources/new_sponser.jpeg" alt="QR code">
+                            <p>LabIndia Instruments Pvt. Ltd.</p>
+                        </div>
+                        <div>
+                            <img src="resources/Agmatel.jpeg" alt="QR code">
+                            <p>Agmatel India Pvt. Ltd.</p>
+                        </div>
                     </div>
 
                     <br><br>
@@ -128,7 +144,7 @@
 
         </div>
 
-        <div class="px-20">
+        <div class="px-[5%]">
             <h1 class="text-3xl text-center font-bold m-4">Chief Guest</h1>
             <div class="new w-[90%] m-auto flex flex-col xl:flex-row justify-between rounded-lg flex-wrap">
                 <div class="bg-transparent flex-1">
@@ -152,7 +168,7 @@
 
 
                 <div class="flex-1 bg-transparent">
-                    <div class="flex h-full justify-center bg-transparent p-20">
+                    <div class="flex h-full justify-center bg-transparent p-[10%]">
                         <div class="bg-transparent text-white">
                             <h1 class="text-2xl font-bold align-left">Prof. Abhay Karandikar</h1><br>
                             <p class="text-sm text-justify leading-relaxed">Prof. Abhay Karandikar is currently Secretary, Department of Science of Technology (DST). Before joining DST in October 2023, he served as the Director, IIT Kanpur from April 18th, 2018 to September 25th, 2023 (on lien from IIT Bombay). He also served as Dean (Faculty Affairs) and Head of the Electrical Engineering Department at IIT Bombay. He spearheaded a national effort in setting up Telecom Standards Development Society of India (TSDSI), India's standards body for telecom with participation of all stakeholders. Prof Karandikar was the founding member and former Chairman of TSDSI. He was also Member (Part-Time) of Telecom Regulatory Authority of India (TRAI) from January 2018- January 2021. Prof Karandikar has several patents issued and pending, contributions to IEEE, 3GPP standards,contributed chapters in books and large number of papers in international journals and conferences to his credit. Prof Karandikar was awarded with IEEE SA's Standards Medallion in December 2016 in New Jersey. His team also won Mozilla Open Innovation challenge prize in March 2017 for his work on rural broadband and digital empowerment in rural India.</p>
