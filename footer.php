@@ -62,6 +62,7 @@
   <span>Copyright 2023 © JIIT</span> <br><br>
   <span>Designed and developed by
     <u><a href="https://www.linkedin.com/in/raghavgoel002/" target="_blank">Raghav Goel</a></u>, 
-    <u><a href="https://www.linkedin.com/in/harsh-dhariwal/" target="_blank">Harsh Dhariwal</a></u>
+    <u><a href="https://www.linkedin.com/in/harsh-dhariwal/" target="_blank">Harsh Dhariwal</a></u>,
+    <u><a href="https://www.linkedin.com/in/vanshul-agarwal/" target="_blank">Vanshul Agarwal</a></u>
    </span>
 </div>
