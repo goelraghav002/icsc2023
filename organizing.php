@@ -57,9 +57,9 @@
                                 </div>
                             </div>
                         </div>
-                    <!-- <div id="organizingTable" class="mt-5 pt-5">
+                    <div id="organizingTable" class="mt-5 pt-5">
 
-                    </div> -->
+                    </div>
                 </div>
                 <div></div>
                 <div class="mt-5"></div>
