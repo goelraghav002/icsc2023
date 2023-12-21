@@ -84,6 +84,7 @@
             <li class="text-xs font-bold uppercase"><a href="advisory.php">Advisory Committee</a></li>
             <li class="test-xs font-bold uppercase"><a href="organizing.php">Organizing Committee</a></li>
             <li class="text-xs font-bold uppercase"><a href="oversight.php">IEEE Oversight Committee</a></li>
+            <li class="text-xs font-bold uppercase"><a href="steering.php">Steering Committee</a></li>
         </ul>
     </li>
     <li class="border-l border-white text-xs font-bold uppercase rounded-none" tabindex="0">
