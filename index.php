@@ -11,7 +11,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="path/to/owl.carousel.css" rel="stylesheet">
     <link href="path/to/owl.theme.default.css" rel="stylesheet">
-    <link href="styles/home.css" rel="stylesheet">    
+    <link href="styles/home.css" rel="stylesheet">
 
 
 
@@ -148,7 +148,7 @@
             <h1 class="text-3xl text-center font-bold m-4">Chief Guest</h1>
             <div class="new w-[90%] m-auto flex flex-col xl:flex-row justify-between rounded-lg flex-wrap">
                 <div class="bg-transparent flex-1">
-                    <div class="flex h-full justify-center bg-transparent px-7" >
+                    <div class="flex h-full justify-center bg-transparent px-7">
                         <img src="img/chief.jpeg" alt="" class="w-96 h-76 m-auto my-auto rounded-lg  mt-20">
                     </div>
                     <!-- <div class="justify-center w-full bg-transparent">
@@ -232,7 +232,15 @@
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Program Plan</h6>
-                            <span> coming soon</span>
+                            <span>For more details please click <a class="text-primary" href="resources/PROGRAM PLAN ICSC 2023_19DEC.pdf" download="resources/PROGRAM PLAN ICSC 2023_19DEC.pdf">HERE</a></span>
+                        </li>
+                        <li class="flex flex-col space-y-1">
+                            <h6 class="font-bold text-lg">Session Plan</h6>
+                            <span>For more details please click <a class="text-primary" href="resources/ICSC 2023 SESSION PLAN 19DEC.pdf" download="resources/ICSC 2023 SESSION PLAN 19DEC.pdf">HERE</a></span>
+                        </li>
+                        <li class="flex flex-col space-y-1">
+                            <h6 class="font-bold text-lg">Inauguration Invitation</h6>
+                            <span>For more details please click <a class="text-primary" href="resources/Inauguration Invitation ICSC-2023.pdf" download="resources/Inauguration Invitation ICSC-2023.pdf">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Latest Updates</h6>
