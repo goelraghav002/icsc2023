@@ -29,19 +29,26 @@
                 <div class="flex flex-col text-justify">
 
                     <div class="divider"></div>
-                        <div class="flex flex-col">
-                            <div class="my-2 flex justify-around items-start space-x-32">
+                    <div class="flex">
+                        <div class="my-2 flex flex-wrap justify-around items-start gap-10">
+                            <div class="flex flex-col mx-auto">
+                                <!-- <b class="text-md mb-1">General Chair:</b> -->
                                 <div class="flex flex-col">
-                                    <!-- <b class="text-md mb-1">General Chair:</b> -->
-                                    
+
+
                                     <a target="_blank" class="underline mt-3">Prof. J. Ramkumar</a>
                                     <span>Department of Mechanical Engineering</span>
                                     <span>IIT Kanpur</span>
                                     <span>Email:- jrkumar@iitk.ac.in</span>
                                     <span>Mobile No:-9451220918 </span>
                                 </div>
+                            </div>
+                            <div class="lg:none gapy-10">
+
+                            </div>
+                            <div class="flex flex-col mx-auto">
                                 <div class="flex flex-col">
-                                    <!-- <b class="text-md mb-1">Organizing Secretary:</b> -->
+
                                     <a target="_blank" class="underline">Dr. K. C. Mishra</a>
                                     <span>
                                         Head of Department,<br> Electrical Engineering Department(I/C),<br>
@@ -55,6 +62,7 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
                     <div id="organizingTable" class="mt-5 pt-5">
 
                     </div>

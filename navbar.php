@@ -49,6 +49,7 @@
                 <li><a href="advisory.php">Advisory <br> Committee</a></li>
                 <li><a href="organizing.php">Organizing <br> Committee</a></li>
                 <li><a href="oversight.php">IEEE Oversight <br> Committee</a></li>
+                <li><a href="steering.php">Steering Committee</a></li>
             </ul>
         </li>
         <li tabindex="0">
